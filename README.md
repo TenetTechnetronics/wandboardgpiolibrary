@@ -1,4 +1,4 @@
-wandboardgpiolibrary
+Wandboardgpiolibrary
 ====================
 == Tenet Technetronics ==
 "Simplifying Technology For life "
